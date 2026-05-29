@@ -1,9 +1,9 @@
 ---
-name: time-master
+name: time-master-skill
 description: 多线并行操作：多上下文隔离、时间分片调度、防冲突并行自动化
 metadata:
   openclaw:
-    os: [linux, darwin]
+    os: [linux, darwin, windows]
 ---
 
 # 刘亚格·时间管理大师 — Time Master Skill
